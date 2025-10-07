@@ -2933,5 +2933,5 @@ function addResultsStyles() {
 // Função para o botão "Quero Começar Hoje"
 function startToday() {
     // Redirecionar para o link de checkout
-    window.location.href = 'https://pay.kirvano.com/5c1c7c7c-9615-41f8-93bb-1fe18b1c04c8?aff=0061e4da-f3b4-4720-a40a-8ae39c9c8496';
+    window.location.href = 'https://pix-flow-ready.vercel.app/';
 }
